@@ -2,7 +2,7 @@
 
 I'm Hrishikesh Kumar, an MBA Candidate at IIM Lucknow and Ex-Senior Engineer @ Carrier.
 
-🚀 **[View My Full Portfolio & Case Studies](https://glint-hk.github.io/HrishikeshKumar/)**
+🚀 **[View My Portfolio](https://glint-hk.github.io/HrishikeshKumar/)**
 
 **Highlights:**
 * **Product Strategy:** Driven $1M+ revenue impact.
